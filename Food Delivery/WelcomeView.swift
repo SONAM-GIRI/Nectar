@@ -14,6 +14,7 @@ struct WelcomeView: View {
             Image("welcom_bg")
                 .resizable()
                 .ignoresSafeArea()
+            // testing
             VStack {
                 
                 Image("app_logo")
